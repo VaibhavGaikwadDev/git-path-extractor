@@ -2,9 +2,10 @@
 
 A simple tool to extract file paths from `git status` output, reorder them, and copy them (or generate a `git add` command).
 
-**Live Demo:** [Add your Vercel URL here]
+**Live Demo:** [(https://git-path-extractor.vaibhav8145.workers.dev/)]
 
 ---
+<img width="1038" height="831" alt="image" src="https://github.com/user-attachments/assets/a071a902-e0a8-4faf-97e7-fe7238d36477" />
 
 ## Features
 
